@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">문자자동전송</string>
+    <string name="action_settings">설정</string>
+    <string name="title_activity_intro">인트로</string>
+
+
+    <string name="title_add_number">번호추가</string>
+    <string name="add_num_recv_number">수신 문자번호</string>
+    <string name="add_num_send_number">전달되는 전화번호</string>
+    <string name="add_number">전화번호 추가</string>
+    <string name="save">저장하기</string>
+    <string name="save_ok">정상적으로 저장되었습니다.</string>
+</resources>
